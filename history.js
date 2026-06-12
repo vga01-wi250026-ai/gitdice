@@ -6,4 +6,5 @@ const gameHistory = [
     { turn: 3, player: "playerC", finalPos: "川崎", event: "🎉 第3の伝説のお宝をついに発見！！ 🎉", foundTreasure: true },
     { turn: 4, player: "playerC", finalPos: "茅ヶ崎", event: "🎉 第4の伝説のお宝をついに発見！！ 🎉", foundTreasure: true },
     { turn: 1, player: "playerA", finalPos: "町田", event: "無事に移動した！", foundTreasure: false },
+    { turn: 6, player: "playerD", finalPos: "相模湖", event: "🎉 第5の伝説のお宝をついに発見！！ 🎉", foundTreasure: true },
 ];
