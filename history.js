@@ -8,4 +8,5 @@ const gameHistory = [
     { turn: 1, player: "playerA", finalPos: "町田", event: "無事に移動した！", foundTreasure: false },
     { turn: 6, player: "playerD", finalPos: "相模湖", event: "🎉 第5の伝説のお宝をついに発見！！ 🎉", foundTreasure: true },
     { turn: 7, player: "playerD", finalPos: "秦野", event: "🎉 第6の伝説のお宝をついに発見！！ 🎉", foundTreasure: true },
+    { turn: 8, player: "playerD", finalPos: "小田原", event: "💡 ヒント発見！ 古文書：「東の海沿いをさらに進み、北へと入り込んだ歴史深き谷底を目指せ」", foundTreasure: false },
 ];
